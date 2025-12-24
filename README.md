@@ -10,14 +10,15 @@
 
 ## 😀 About me
 
-Hello everyone, I’m João Augusto, a Brazilian Senior Software Engineer currently based in Brazil. I have solid experience in C#, .NET, Go (Golang) and React with a strong focus on backend engineering and the flexibility to work across the full stack when needed.
+Hello everyone, I’m João Augusto, a Brazilian Senior Software Engineer currently based in Brazil. I have solid experience in C#, .NET, **Node.js**, and React with a strong focus on backend engineering and the flexibility to work across the full stack when needed.
+
 Throughout my career, I’ve contributed to companies in the education, supply chain, and CRM sectors, helping build scalable, robust, and high-quality software solutions.
 
 ## ⚙️ Technologies and Tools
-![](https://img.shields.io/badge/Code-go-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=2bbc8a￼)
+![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Blazor-informational?style=flat&logo=blazor&logoColor=white&color=2bbc8a￼)
+![](https://img.shields.io/badge/Framework-Blazor-informational?style=flat&logo=blazor&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
@@ -31,7 +32,7 @@ Throughout my career, I’ve contributed to companies in the education, supply c
 
 Apart from coding, I also maintain some technical/social articles on my blog.
 
-📚[My Blog](https://jaugustodev.com.br/articles)
+📚 [My Blog](https://jaugustodev.com.br/articles)
 
 ## Working with me
 
@@ -47,5 +48,5 @@ Working in a team, even that I know how to do my job, I try to talk with each ot
 ## Repositories
 
 Most of my repositories are public, and meant to be opensource applications; they are mainly focused in the following areas:
-- Backend (Golang, C#, Javascript, Typescript)
+- Backend (C#, Javascript, Typescript, Node.js)
 - Frontend (React)
