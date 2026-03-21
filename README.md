@@ -6,7 +6,7 @@
 
 ## About me
 
-Hello everyone, I'm João Augusto, a Brazilian Senior Software Engineer currently based in Brazil. With **5+ years of professional experience**, I have solid expertise in C#, .NET, **Node.js**, and React with a strong focus on backend engineering and the flexibility to work across the full stack when needed.
+Hello everyone, I'm João Augusto, a Senior Software Engineer currently based in Brazil. With **5+ years of professional experience**, I have solid expertise in C#, .NET, **Node.js**, and React with a strong focus on backend engineering and the flexibility to work across the full stack when needed.
 
 Throughout my career, I've contributed to companies in the **education, supply chain, and CRM sectors**, helping build scalable, robust, and high-quality software solutions that serve millions of users worldwide.
 
