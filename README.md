@@ -2,7 +2,7 @@
 
 💻 Senior Software Engineer at [Match Group](https://mtch.com/) 
 
-💬 [LinkedIn](https://www.linkedin.com/in/joaoaugustodev/) | ℹ️ [Website/Blog](https://jaugustodev.com.br/) 
+💬 [LinkedIn](https://www.linkedin.com/in/joaoaugustodev/) | ℹ️ [Website](https://jaugustodev.com.br/) 
 
 ## About me
 
