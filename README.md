@@ -1,52 +1,68 @@
 # Hello, Folks! I'm João Augusto ✌️
 
-💻 Senior Software Engineer [Match Group](https://mtch.com/) 
+💻 Senior Software Engineer at [Match Group](https://mtch.com/) 
 
-✈️ Digital Nomad Enthusiast
+💬 [LinkedIn](https://www.linkedin.com/in/joaoaugustodev/) | ℹ️ [Website/Blog](https://jaugustodev.com.br/) 
 
-💬 [LinkedIn](https://www.linkedin.com/in/joaoaugustodev/) 
+## About me
 
-ℹ️ [Website/Blog](https://jaugustodev.com.br/) 
+Hello everyone, I'm João Augusto, a Brazilian Senior Software Engineer currently based in Brazil. With **5+ years of professional experience**, I have solid expertise in C#, .NET, **Node.js**, and React with a strong focus on backend engineering and the flexibility to work across the full stack when needed.
 
-## 😀 About me
+Throughout my career, I've contributed to companies in the **education, supply chain, and CRM sectors**, helping build scalable, robust, and high-quality software solutions that serve millions of users worldwide.
 
-Hello everyone, I’m João Augusto, a Brazilian Senior Software Engineer currently based in Brazil. I have solid experience in C#, .NET, **Node.js**, and React with a strong focus on backend engineering and the flexibility to work across the full stack when needed.
+### Key Achievements
 
-Throughout my career, I’ve contributed to companies in the education, supply chain, and CRM sectors, helping build scalable, robust, and high-quality software solutions.
+- **Saved millions of dollars** by implementing health and readiness endpoints for critical services, preventing costly downtime
+- **Reduced operational costs by 50%** (~$200k → ~$100k USD annually) through an efficient product labeling system
+- **Improved system uptime by 60%** and **reduced incident resolution time by 50%** with comprehensive observability
+- **Optimized database performance by 75%** and decreased API response time from 2s to 500ms through Redis caching (85%+ hit ratio)
+- **Scaled systems to process millions of events daily** migrating to event-driven microservices using Kafka
+- **Built 13+ user-selection filters** for large-scale email and push notification campaigns
 
-## ⚙️ Technologies and Tools
+## Experience
+
+**5+ years** building distributed systems, microservices, and event-driven architectures:
+
+- **Customer Engagement Platforms**: Large-scale CRM solutions powering campaigns for millions of users across multiple brands
+- **Supply Chain Systems**: Warehouse management and logistics solutions reducing operational costs
+- **Education Technology**: Scalable educational platforms serving thousands of students
+
+**Technical Impact**: Led microservices migrations, introduced engineering best practices, mentored developers, and collaborated with cross-functional teams to deliver business value.
+
+## Technologies and Tools
+
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Blazor-informational?style=flat&logo=blazor&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
 
-## ✍️ Blog and Writing 
+## Blog and Writing 
 
-Apart from coding, I also maintain some technical/social articles on my blog.
+I maintain technical articles sharing insights about software architecture, best practices, and lessons learned from real-world projects.
 
 📚 [My Blog](https://jaugustodev.com.br/articles)
 
 ## Working with me
 
-With the mentality of absorbing and learning everything from all the situations present in my life, mainly in the professional scope, I try to develop myself through work experiences to improve my technical knowledge.
+**My colleagues describe me as**: A fast learner, quality-focused engineer with strong attention to detail, excellent team player, and effective problem solver.
 
-Not only of technical attributes are made a professional, but the ability to communicate, teamwork, and strategic planning are the key to achieving goals accurately. Thus, I believe that every person regardless of its level of knowledge has something to teach us, and that interpersonal relationships contribute to the development of countless sectors of our lives.
-
-Therefore, I believe that having contact with people is a primordial step to thrive in your
-career, creating this network of helping and being helped by others will create a clear path for you.
-
-Working in a team, even that I know how to do my job, I try to talk with each other of the team to check if they really understand what the current project/task is about, and if I can help at some point.
+I believe that technical excellence combined with strong communication, teamwork, and mentorship creates the best outcomes. Working in a team, I actively support others, conduct thorough code reviews, and ensure everyone understands the project goals.
 
 ## Repositories
 
-Most of my repositories are public, and meant to be opensource applications; they are mainly focused in the following areas:
-- Backend (C#, Javascript, Typescript, Node.js)
-- Frontend (React)
+My repositories showcase production-ready code with best practices in architecture, testing, and documentation.
+
+**Focus areas**: Backend (C#, .NET, Node.js), Frontend (React, Next.js), Clean Architecture, DDD, CQRS, Event-Driven Design
+
+### 🌟 Featured Project
+
+**[Flixer Catalog API](https://github.com/jaugustodev/flixer)** - Production-ready video catalog management system
+- .NET 6, Clean Architecture, DDD, Keycloak auth, RabbitMQ, complete test coverage, CI/CD with GitHub Actions
+
+---
+
+📧 **Contact**: jaugusto.dev@gmail.com
