@@ -1,32 +1,34 @@
 # Hello, Folks! I'm João Augusto ✌️
 
-💻 Senior Software Engineer at [Match Group](https://mtch.com/) 
+💻 Senior Software Engineer (.NET + AI) at [Match Group](https://mtch.com/) 
 
 💬 [LinkedIn](https://www.linkedin.com/in/joaoaugustodev/) | ℹ️ [Website](https://jaugustodev.com.br/) 
 
 ## About me
 
-Hello everyone, I'm João Augusto, a Senior Software Engineer currently based in Brazil. With **5+ years of professional experience**, I have solid expertise in C#, .NET, Node.js, and React with a strong focus on backend engineering and the flexibility to work across the full stack when needed.
+I'm João Augusto, a Senior Software Engineer based in Brazil with **5+ years of experience**.
 
-Throughout my career, I've contributed to companies in the **education, supply chain, and CRM sectors**, helping build scalable, robust, and high-quality software solutions that serve millions of users worldwide.
+I specialize in **C# and .NET**, building scalable backend systems, and applying **AI / LLMs** to improve products and development workflows.
+
+I've worked across **education, supply chain, and CRM**, building systems used by millions of users.
 
 ### Key Achievements
 
-- **Reduced operational costs by 50%** (~$200k → ~$100k USD annually) through an efficient product labeling system
-- **Improved system uptime by 60%** and **reduced incident resolution time by 50%** with comprehensive observability
-- **Optimized database performance by 75%** and decreased API response time from 2s to 500ms through Redis caching (85%+ hit ratio)
-- **Scaled systems to process millions of events daily** migrating to event-driven microservices using Kafka
-- **Built 13+ user-selection filters** for large-scale email and push notification campaigns
+- **Reduced operational costs by 50%** (~$200k → ~$100k USD annually)  
+- **Improved system uptime by 60%** and reduced incident resolution time by 50%  
+- **Optimized performance by 75%** and reduced latency from 2s to 500ms  
+- **Scaled systems to process millions of events daily** with event-driven architecture  
+- Applied **AI / LLMs** to improve engineering productivity  
 
 ## Experience
 
-**5+ years** building distributed systems, microservices, and event-driven architectures:
+**5+ years** building distributed systems and microservices:
 
-- **Customer Engagement Platforms**: Large-scale CRM solutions powering campaigns for millions of users across multiple brands
-- **Supply Chain Systems**: Warehouse management and logistics solutions reducing operational costs
-- **Education Technology**: Scalable educational platforms serving thousands of students
+- **Customer Engagement Platforms**: CRM systems at scale  
+- **Supply Chain Systems**: Logistics and cost optimization  
+- **Education Technology**: Platforms serving thousands of users  
 
-**Technical Impact**: Led microservices migrations, introduced engineering best practices, mentored developers, and collaborated with cross-functional teams to deliver business value.
+**Technical Impact**: Focus on scalable architecture, performance, and practical use of **AI in engineering workflows**.
 
 ## Technologies and Tools
 
@@ -41,26 +43,24 @@ Throughout my career, I've contributed to companies in the **education, supply c
 
 ## Blog and Writing 
 
-I maintain technical articles sharing insights about software architecture, best practices, and lessons learned from real-world projects.
+I write about software engineering, AI, and system design.
 
 📚 [My Blog](https://jaugustodev.com.br/articles)
 
 ## Working with me
 
-**My colleagues describe me as**: A fast learner, quality-focused engineer with strong attention to detail, excellent team player, and effective problem solver.
-
-I believe that technical excellence combined with strong communication, teamwork, and mentorship creates the best outcomes. Working in a team, I actively support others, conduct thorough code reviews, and ensure everyone understands the project goals.
+Focused on building reliable systems, writing clean code, and applying AI where it adds real value.
 
 ## Repositories
 
-My repositories showcase production-ready code with best practices in architecture, testing, and documentation.
+Production-ready projects with best practices in architecture and design.
 
-**Focus areas**: Backend (C#, .NET, Node.js), Frontend (React, Next.js), Clean Architecture, DDD, CQRS, Event-Driven Design
+**Focus areas**: .NET, Clean Architecture, Distributed Systems, AI integration  
 
 ### 🌟 Featured Project
 
-**[Flixer Catalog API](https://github.com/jaugustodev/flixer)** - Production-ready video catalog management system
-- .NET 6, Clean Architecture, DDD, Keycloak auth, RabbitMQ, complete test coverage, CI/CD with GitHub Actions
+**[Flixer Catalog API](https://github.com/jaugustodev/flixer)** - Video catalog management system  
+- .NET, Clean Architecture, DDD, RabbitMQ, CI/CD  
 
 ---
 
