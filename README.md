@@ -1,6 +1,6 @@
 # Hello, Folks! I'm João Augusto ✌️
 
-💻 Senior Software Engineer (.NET + AI) at [Match Group](https://mtch.com/) 
+💻 Senior Software Engineer (.NET + Node.js + AI) at [Match Group](https://mtch.com/) 
 
 💬 [LinkedIn](https://www.linkedin.com/in/joaoaugustodev/) | ℹ️ [Website](https://jaugustodev.com.br/) 
 
@@ -55,7 +55,7 @@ Focused on building reliable systems, writing clean code, and applying AI where 
 
 Production-ready projects with best practices in architecture and design.
 
-**Focus areas**: .NET, Clean Architecture, Distributed Systems, AI integration  
+**Focus areas**: .NET, Node.js, Clean Architecture, Distributed Systems, AI integration  
 
 ### 🌟 Featured Project
 
