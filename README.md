@@ -6,7 +6,7 @@
 
 ## About me
 
-I'm João Augusto, a Senior Software Engineer based in Brazil with **5+ years of experience**.
+I'm João Augusto, a Senior Software Engineer based in Brazil with **6+ years of experience**.
 
 I specialize in **C#, Typescript, .NET and Node.js**, building scalable backend systems, and applying **AI / LLMs** to improve products and development workflows.
 
